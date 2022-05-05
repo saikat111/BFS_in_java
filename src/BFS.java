@@ -29,6 +29,7 @@ public class BFS {
                  }
              }
         }
+        System.out.println();
     }
 }
 
